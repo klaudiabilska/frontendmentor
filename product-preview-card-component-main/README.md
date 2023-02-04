@@ -52,5 +52,5 @@ text-decoration: line-through;
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=9aDqk7jUMZQ)
+- [YT Tutorial](https://www.youtube.com/watch?v=9aDqk7jUMZQ)
 

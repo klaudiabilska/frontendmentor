@@ -3,16 +3,15 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
   - [Screenshot](#screenshot)
-- [My process](#my-process)
+
   - [Built with](#built-with)
 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktop-design.jpg)
 
 
-## My process
 
 ### Built with
 
