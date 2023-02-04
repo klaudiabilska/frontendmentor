@@ -2,14 +2,6 @@
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-
 
 
 ### Screenshot
@@ -22,7 +14,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://statuesque-biscotti-9c4179.netlify.app/)
+- [URL](https://statuesque-biscotti-9c4179.netlify.app/)
 
 
 ### Built with
