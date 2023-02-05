@@ -1,0 +1,88 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Inter','Lexend Deca', sans-serif;
+    font-size: 15px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(233, 47%, 7%);
+}
+
+.container {
+    margin: 30px auto;
+    padding: 0 30px;
+}
+
+.card {
+    max-width: 90rem;
+    display: flex;
+    background: hsl(244, 38%, 16%);
+    border-radius: 15px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.text {
+ margin: 0 2rem 0 3rem;
+ max-width: 50vh;
+}
+
+.text h1 {
+    color:hsl(0, 0%, 100%);
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 2.5rem;;
+}
+
+.text h1 span {
+    color: hsl(277, 64%, 61%);
+}
+
+.text p {
+    margin-top: 2rem;
+    color: hsla(0, 0%, 100%, 0.75);
+    max-width: 45vh;
+    line-height: 1.5rem;
+}
+
+.numbers {
+    display: flex;
+    margin-top: 6rem;
+    max-width: 41vh;
+    text-transform: uppercase;
+    justify-content: space-between;
+}
+
+.numbers h2 {
+    color: white;
+    margin-bottom: -30px;
+}
+
+.stats {
+    font-family: 'Lexend Deca';
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 0.7rem;
+}
+
+.picture {
+    background: no-repeat cover;
+    border-radius: 0;
+    position: relative;
+  }
+  
+.picture .overlay {
+    background-color: hsla(277, 40%, 50%, 0.7);
+    height: 100vh;
+    width: 100vh;
+    border-radius: 0;
+    position: absolute;
+  }
+
