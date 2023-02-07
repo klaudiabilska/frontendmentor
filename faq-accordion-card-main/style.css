@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    height: 100vh;
+    background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(240, 5%, 91%);
+    border-radius: 20px;
+max-width: 75%;
+}
