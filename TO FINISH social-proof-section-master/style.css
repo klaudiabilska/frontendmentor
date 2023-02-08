@@ -1,0 +1,10 @@
+:root {
+    --purple: hsl(300, 43%, 22%);
+    --pink: hsl(333, 80%, 67%);
+  }
+
+
+  body {
+    font-size: 15px;
+    font-family: 'League Spartan', sans-serif;
+  }
